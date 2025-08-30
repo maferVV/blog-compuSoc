@@ -2,4 +2,5 @@ title: my cool blog
 author: María Fernanda Vega
 description: meow
 
-baseurl: "/repo-name"   # replace with your repo name
+baseurl: "/blog-compuSoc"   # replace with your repo name
+
