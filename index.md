@@ -2,9 +2,9 @@
 title: Butleriana CR
 ---
 
-# Que es esta pagina????
+# Butleriana CR
 
-Esta es una pagina dedicada a mis opiniones, basadas en noticias mensuales.
+Butleriana CR es una pagina dedicada a blogposts mensuales. Cada blogpost contiene una noticia relevante relacionada a la disciplina de la Computación, y su papel en la sociedad costarricense.
 
 ---
 
