@@ -14,6 +14,15 @@ Octubre se ubica en la Universidad de Costa Rica. La noticia habla sobre la viol
 
 Noviembre intenta enlazar todos los temas vistos en los blogposts anteriores, con Palestina en el medio.
 
+Información para el proyecto
+Nombre de la persona estudiante | María Fernanda Vega |
+Carne Universitario | B78244 |
+Curso | Computación y Sociedad |
+Grupo | 003 |
+Fecha de Entrega | lunes, 1 de diciembre de 2025 |
+Nombre del Profesor | Prof. Alexander Barquero Elizondo |
+
+
 ---
 
 ## Entradas recientes
